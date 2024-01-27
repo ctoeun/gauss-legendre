@@ -1,0 +1,8 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Julia functions for computing Gauss-Legendre roots and weights}}{3}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Storing my function and external gauss function in lists for unit tests}}{4}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Unit tests}}{4}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Code to produce table of roots and weights of LP per degree n}}{5}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Julia output table of roots and weights of LP degrees n = 2, ... , 10}}{5}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Computation time for n=10}}{7}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Computation time for n=25}}{7}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Approximations of definite integral from B\&F 4.7}}{8}{}%

@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Gauss-Legendre Quadrature}{2}{}%
+\contentsline {section}{\numberline {2}Gauss-Legendre Implementation}{2}{}%
+\contentsline {section}{\numberline {3}Unit Testing}{4}{}%
+\contentsline {section}{\numberline {4}Results}{5}{}%
+\contentsline {section}{\numberline {5}Optimization}{7}{}%
+\contentsline {section}{\numberline {6}Conclusion}{8}{}%
